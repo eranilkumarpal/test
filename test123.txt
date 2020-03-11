@@ -1,0 +1,4 @@
+This is sample file.
+You can use this file saving your information and share to somebody.
+I think, If you carry some data then file is better option .
+This is simple sinppet about file information.

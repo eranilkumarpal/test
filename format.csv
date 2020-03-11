@@ -1,0 +1,5 @@
+Id;date;code;type;category;name;position;formula
+10;;;2010-02-01;;000010;P;W;NormalDays;10;#formelTest
+55;;;2050-05-02;;000055;D;C;SpecificDays;55;#formelTest2
+60;;;2301-08-03;;000060;A;C;NotNormalDays;60;#formelBlablblabla
+75;;;2012-01-08;;000075;P;W;VulgaryDays;75;@formellbalbalbalbababa
