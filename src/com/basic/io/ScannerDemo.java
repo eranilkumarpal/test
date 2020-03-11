@@ -1,7 +1,7 @@
 package com.basic.io;
-
+ 
 import java.util.Scanner;
-
+/* this is basic programming which is pertaining to scanner class*/
 class ScannerDemo {
 
 	public static void main(String[] args) {
